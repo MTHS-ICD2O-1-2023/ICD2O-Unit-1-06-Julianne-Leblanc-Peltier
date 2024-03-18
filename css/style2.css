@@ -1,0 +1,14 @@
+/* Created by: Julianne Leblanc-Peltier
+* Created on: March 2024
+* This file contains the CSS for index.html
+*/
+
+body {
+  background-color: rgb(219 254 255);
+}
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
