@@ -12,3 +12,8 @@ body {
   padding-right: 15pt;
   padding-top: 15pt;
 }
+
+#favicon-text {
+  color: rgb(255 0 200);
+  text-align: center;
+}

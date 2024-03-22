@@ -12,3 +12,15 @@ body {
   padding-right: 15pt;
   padding-top: 15pt;
 }
+
+a:link {
+  color: blueviolet;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: hotpink;
+}
